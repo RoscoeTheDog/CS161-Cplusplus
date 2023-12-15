@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aspen/Documents/GitHub/C++/Lab-7/Games/RockPaperScissors.cpp
+RockPaperScissors.h
+C:/Users/Aspen/Documents/GitHub/C++/Lab-7/Games/RockPaperScissors.h
+string
+-
+iostream
+-
+
+C:/Users/Aspen/Documents/GitHub/C++/Lab-7/Games/RockPaperScissors.h
+cstdlib
+-
+time.h
+-
+cctype
+-
+string
+-
+iostream
+-
+

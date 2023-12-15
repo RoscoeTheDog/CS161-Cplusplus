@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aspen/Documents/GitHub/C++/Lab-8/Yahtzee.cpp
+algorithm
+-
+Yahtzee.h
+C:/Users/Aspen/Documents/GitHub/C++/Lab-8/Yahtzee.h
+iostream
+-
+ctime
+-
+cstdlib
+-
+iomanip
+-
+
+C:/Users/Aspen/Documents/GitHub/C++/Lab-8/Yahtzee.h
+string
+-
+

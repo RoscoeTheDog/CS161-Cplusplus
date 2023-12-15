@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aspen/Documents/GitHub/C++/Lab-9/FileHandler.cpp
+FileHandler.h
+C:/Users/Aspen/Documents/GitHub/C++/Lab-9/FileHandler.h
+iostream
+-
+vector
+-
+cctype
+-
+
+C:/Users/Aspen/Documents/GitHub/C++/Lab-9/FileHandler.h
+fstream
+-
+ios
+-
+vector
+-
+

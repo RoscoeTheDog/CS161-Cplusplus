@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Documents/GitHub/C++/Lab-2/main.cpp
+iostream
+-
+ctime
+-
+cmath
+-
+cstdlib
+-
+iomanip
+-
+chrono
+-
+
